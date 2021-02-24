@@ -6,4 +6,4 @@ Drowsiness detection aims to continuously detect if a person is drowsy or sleepi
 
 This system starts by taking live video input from a camera which is focussed on a person’s face. Then it continuously detects whether the person visible is sleeping or drowsy. It checks whether person’s eyes are open or close and also detects if person is yawning. If his eyes are found closed or yawning is detected it immediately alerts by playing an audio. 
 
-To see the system run drowsiness_detector.py file.
+Run drowsiness_detector.py file to open Drowsiness Detection System.
